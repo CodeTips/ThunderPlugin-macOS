@@ -1,0 +1,6 @@
+framework module libThunderPlugin {
+  umbrella header "libThunderPlugin.h"
+
+  export *
+  module * { export * }
+}
