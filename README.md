@@ -1,4 +1,4 @@
-# ThunderPlugin
+# ThunderPlugin-macOS
 For macOS。Mac版 迅雷的反hook绕过~
 
 
