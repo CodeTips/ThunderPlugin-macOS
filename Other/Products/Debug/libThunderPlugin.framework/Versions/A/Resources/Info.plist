@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>17E199</string>
+	<string>21F79</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
 	<string>libThunderPlugin</string>
 	<key>CFBundleIdentifier</key>
-	<string>Net.CodeTips.libThunderPlugin</string>
+	<string>com.lemonlie.libThunderPlugin</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -27,18 +27,22 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>9C40b</string>
+	<string>13F100</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>GM</string>
+	<string>12.3</string>
 	<key>DTSDKBuild</key>
-	<string>17C76</string>
+	<string>21E226</string>
 	<key>DTSDKName</key>
-	<string>macosx10.13</string>
+	<string>macosx12.3</string>
 	<key>DTXcode</key>
-	<string>0920</string>
+	<string>1341</string>
 	<key>DTXcodeBuild</key>
-	<string>9C40b</string>
+	<string>13F100</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>12.3</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2018 CodeTips. All rights reserved.</string>
+	<string></string>
 </dict>
 </plist>

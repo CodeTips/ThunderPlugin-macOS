@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>libThunderPlugin.xcscheme</key>
+		<key>libThunderPlugin.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>E581E504204F86E0008731B7</key>
+		<key>6CB20EF828884EC2002E148B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
